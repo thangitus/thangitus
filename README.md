@@ -3,7 +3,6 @@
 <img align="right" alt="GIF" src="programer.gif" width="350"/>
 
 ## 👨🏻‍💻 About Me
-- 🔭 &nbsp; I’m currently final year student at Vietnam national university, Ho Chi Minh city university of sciences
 - 🎓 &nbsp; Studying Sofware Engineering.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 💼 &nbsp; Android developer.
