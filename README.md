@@ -23,8 +23,6 @@
 
 [![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=thangitus&repo=LeetCode-Solution)](https://github.com/thangitus/LeetCode-Solution)
 
-[![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=thangitus&repo=Design-Pattern-Annotations)](https://github.com/thangitus/Design-Pattern-Annotations)
-
 
 ### 🤝🏻 Connect with Me
 
