@@ -12,7 +12,6 @@
 ### 🛠 Tech Stack
 
 - 💻 &nbsp; Java | Kotlin | C++ | C# 
-- 🛢 &nbsp; SQLite | Room
 - 🔧 &nbsp; Android | Algorithm | Design Pattern | Git | Test
 - 🖥 &nbsp; Linux | Window
 
